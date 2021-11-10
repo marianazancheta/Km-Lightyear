@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  color: white;
+  background-color: #000000;
+  text-align: center;
+  height: 100%;
+}
+
+div#conteudo {
+  display: block;
+  margin: auto;
+  margin-top: 20%;
+}
+
+img {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
